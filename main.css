@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+nav{
+    backdrop-filter: blur(3px); /* Add a blur effect to the background */
+    transition: background-color 0.3s ease; /* Add a smooth transition effect */
+    background-color: rgba(67, 66, 66, 0.254);
+}
+/* #card{
+    top: 82vh;
+    margin:auto;
+    left: 23%;
+    right: 23%;
+} */
